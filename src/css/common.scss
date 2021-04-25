@@ -1,0 +1,16 @@
+html {
+    div {
+        width: 100px;
+        height: 100px;
+        background-color: yellow;
+        transition: transform 1s;
+        font-family: FZZJ-YTKLJW;
+    }
+    .box {
+        background: url('../assets/img/1.jpg') no-repeat;
+        background-size: cover;
+    }
+    .mon {
+        font-size: 12px;
+    }
+}
